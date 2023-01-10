@@ -1,7 +1,7 @@
 {
   "name": "12-moon",
   "version": "1.0.0",
-  "description": "",
+  "description": "Menulis ir sedintis astronautas",
   "main": "index.js",
   "scripts": {
     "dev":"dead-server --host=localhost --port=4212",
